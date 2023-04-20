@@ -1,2 +1,2 @@
 # Java-DatabaseApp
-JAVA(Servlet)+HTML
+Servlet+HTML
